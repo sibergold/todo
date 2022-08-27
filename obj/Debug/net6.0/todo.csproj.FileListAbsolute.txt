@@ -1,0 +1,15 @@
+C:\Users\OSMAN\todo\obj\Debug\net6.0\todo.csproj.AssemblyReference.cache
+C:\Users\OSMAN\todo\obj\Debug\net6.0\todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\todo\obj\Debug\net6.0\todo.AssemblyInfoInputs.cache
+C:\Users\OSMAN\todo\obj\Debug\net6.0\todo.AssemblyInfo.cs
+C:\Users\OSMAN\todo\obj\Debug\net6.0\todo.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\todo\bin\Debug\net6.0\todo.exe
+C:\Users\OSMAN\todo\bin\Debug\net6.0\todo.deps.json
+C:\Users\OSMAN\todo\bin\Debug\net6.0\todo.runtimeconfig.json
+C:\Users\OSMAN\todo\bin\Debug\net6.0\todo.dll
+C:\Users\OSMAN\todo\bin\Debug\net6.0\todo.pdb
+C:\Users\OSMAN\todo\obj\Debug\net6.0\todo.dll
+C:\Users\OSMAN\todo\obj\Debug\net6.0\refint\todo.dll
+C:\Users\OSMAN\todo\obj\Debug\net6.0\todo.pdb
+C:\Users\OSMAN\todo\obj\Debug\net6.0\todo.genruntimeconfig.cache
+C:\Users\OSMAN\todo\obj\Debug\net6.0\ref\todo.dll

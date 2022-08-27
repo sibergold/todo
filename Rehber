@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ToDoUygulaması
+{
+    public class Kisi
+    {
+        public int ID { get; set; }
+        public string İsim { get; set; }
+
+        public Kisi(int ıd, string isim)
+        {
+            ID = ıd;
+            İsim = isim;
+        }
+
+    }
+}
+
+    
